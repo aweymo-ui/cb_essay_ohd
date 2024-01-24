@@ -8,42 +8,33 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://aweymo-ui.github.io/cb_essay_ohd/
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /cb_essay_ohd
+baseurl: 
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
-
-#### Collection Section
-
-collections:
-  emotions:
-    output: false
-    permalink: /emotions/:title
-
-
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Using CollectionBuilder to Interconnect Essay and Audiovisual Material
+title: CollectionBuilder CSV
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Created for the Spring 2024 Programming Historian Lesson
+tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Based and containing elements of University of Idaho CDIL Fellowship recipient Nick Koenig's work, the Chestnut Collective."
+description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: oral history as data;collectionbuilder;multidisciplinary research;accessibility
+keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Nick Koenig, Julia Stone and Andrew Weymouth
+author: CollectionBuilder
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: chestnut_metadata
+metadata: demo-compoundobjects-metadata 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -59,10 +50,10 @@ metadata: chestnut_metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Idaho"
-organization-link: 
-organization-logo-banner: 
-organization-logo-nav: 
+organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-link: https://cdil.lib.uidaho.edu/
+organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # GOOGLE SERVICES [optional!]

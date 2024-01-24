@@ -1,11 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-Essay Examples
-Example One,/essays/essay_one.html,Essay Examples
-Example Two,/essay_two.html,Essay Examples
-Example Three,/essay_three.html,Essay Examples
-Oral Histories,/oral_history.html
-Browse Items,/browse.html,
-Timeline,/timeline.html,
+Browse,/browse.html,
+Subjects,/subjects.html,
+Locations,/locations.html,
 Map,/map.html,
+Timeline,/timeline.html,
+Data,/data.html,
 About,/about.html,
