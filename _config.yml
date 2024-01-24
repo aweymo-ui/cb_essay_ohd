@@ -1,0 +1,91 @@
+##########
+# collectionbuilder-csv
+# Jekyll Digital Collection Generator
+# https://github.com/CollectionBuilder/collectionbuilder-csv
+##########
+
+##########
+# URL VARIABLES
+#
+# site domain, full URL to the production location of your collection
+url: 
+# path to location on the domain if necessary e.g. /digital/hjccc
+baseurl: 
+# location of code, the full url to your github repository
+source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+
+#### Collection Section
+
+collections:
+  emotions:
+    output: true
+    permalink: /emotions/:title
+
+
+##########
+# SITE SETTINGS
+#
+# title of site appears in banner
+title: Chestnut Collective
+# tagline, a short phrase that will appear throughout the site in the top banner
+tagline: Collecting Stories Entangled with the American Chestnut
+# description appears in meta tags and other locations
+# this description might appear in search result lists, keep around 160 characters max
+description: "The Chestnut Collective is committed to sharing the underlistened stories of Appalachian plants and people."
+# keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
+keywords: chestnut;history;appalachia;plants;american chestnut
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: Nick Koenig
+
+##########
+# COLLECTION SETTINGS
+#
+# Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
+# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+metadata: chestnut_metadata
+# page generation settings [optional!]
+# [optional: only used if you need to tweak CB defaults or generate from more than one data file]
+# page_gen:
+#   - data: 'demo-metadata'
+#     template: 'item'
+#     name: 'objectid'
+#     dir: 'items'
+#     extension: 'html' 
+#     filter: 'objectid'  
+
+##########
+# Site/Organization Branding 
+#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+#   To remove the branding, comment out these values, or delete them. 
+#
+organization-name: "Nick Koenig"
+organization-link: https://nick-koenig.weebly.com/
+organization-logo-banner: 
+organization-logo-nav: 
+
+##########
+# GOOGLE SERVICES [optional!]
+#
+# leave these blank or comment out to NOT include google code
+# if present, used to add analytics during "production" build only
+# google-analytics-id: "G-XXXXXXXXX"
+# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+
+##########
+# ROBOTS EXCLUDE
+#
+# set noindex to true if you do NOT want Google to index your site
+# noindex: true 
+
+##########
+# BUILD SETTINGS 
+#
+# Note: use environment variable on build command to include analytics
+# JEKYLL_ENV=production jekyll build
+# (this is done automatically by gh-pages build)
+#
+# ignore stuff
+exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md]
+# compress CSS output
+sass:
+  style: compressed
