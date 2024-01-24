@@ -1,8 +1,8 @@
 ---
-title: mountain culture
-order: 5
+title: Essay Three
+order: 3
 layout: essay
-permalink: /mountain-culture.html
+permalink: /essay_three.html
 ---
 {:.quote .mountain-culture} 
 "When that Chestnut died, a part of the mountain culture died with it. And the memories are still there. And so he [Rex's father] felt very passionate about the woods and the wildlife, but especially the Chestnut tree" 

@@ -8,34 +8,26 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://aweymo-ui.github.io/cb_essay_ohd/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /cb_essay_ohd
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
-
-#### Collection Section
-
-collections:
-  emotions:
-    output: true
-    permalink: /emotions/:title
-
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Chestnut Collective
+title: Using CollectionBuilder to Interconnect Essay and Audiovisual Material
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Collecting Stories Entangled with the American Chestnut
+tagline: Created for the Spring 2024 Programming Historian Lesson
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Chestnut Collective is committed to sharing the underlistened stories of Appalachian plants and people."
+description: "Based and containing elements of University of Idaho CDIL Fellowship recipient Nick Koenig's work, the Chestnut Collective."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: chestnut;history;appalachia;plants;american chestnut
+keywords: oral history as data;collectionbuilder;multidisciplinary research;accessibility
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Nick Koenig
+author: Nick Koenig, Julia Stone and Andrew Weymouth
 
 ##########
 # COLLECTION SETTINGS
@@ -58,8 +50,8 @@ metadata: chestnut_metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Nick Koenig"
-organization-link: https://nick-koenig.weebly.com/
+organization-name: "University of Idaho"
+organization-link: 
 organization-logo-banner: 
 organization-logo-nav: 
 

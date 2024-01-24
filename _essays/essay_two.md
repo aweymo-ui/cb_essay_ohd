@@ -1,8 +1,8 @@
 ---
-title: nostalgia
+title: Essay Two
 order: 2
 layout: essay
-permalink: /nostalgia.html
+permalink: /essay_two.html
 ---
 {:.firstp}
 Given the timing of the chestnut blight's introduction, rate of spread, and time that has passed since the total devastation in Central Appalachia (Fig. 2), there are no people alive today that are living prior to the blight in the area. Therefore, the past emotions are passed down from generation to generation or inferred from archival materials (as seen above).

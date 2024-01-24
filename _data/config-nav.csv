@@ -1,21 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/,
-Emotions
-intro,/emotions/01_intro,Emotions
-nostalgia reverence & majesty,/nostalgia.html,Emotions
-mountain culture,/mountain-culture.html,Emotions
-frustration,/frustration.html,Emotions
-sadness,/sadness.html,Emotions
-haunting ghosts,/haunting.html,Emotions
-moral obligation,/moral-obligation.html,Emotions
-love & passion,/love.html,Emotions
-excitement & exploration,/excitement.html,Emotions
-imagination,/imagination.html,Emotions
-anxiety,/anxiety.html,Emotions
-care,/care.html,Emotions
-patience,/patience.html,Emotions
-hope,/hope.html,Emotions
-conclusion emotions,/conclusion.html,Emotions
-Narrators,/viz.html
-Archives,/browse.html,
+Essay Examples
+Example One,/essays/essay_one.html,Essay Examples
+Example Two,/essay_two.html,Essay Examples
+Example Three,/essay_three.html,Essay Examples
+Oral Histories,/oral_history.html
+Browse Items,/browse.html,
+Timeline,/timeline.html,
+Map,/map.html,
 About,/about.html,
