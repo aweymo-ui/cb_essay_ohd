@@ -14,6 +14,15 @@ baseurl: /cb_essay_ohd
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
+#### Collection Section
+
+collections:
+  emotions:
+    output: false
+    permalink: /emotions/:title
+
+
+
 ##########
 # SITE SETTINGS
 #
