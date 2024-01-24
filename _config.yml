@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://aweymo-ui.github.io/cb_essay_ohd/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /cb_essay_ohd
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Using CollectionBuilder to Interconnect Essay and Audiovisual Material
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Created for the Spring 2024 Programming Historian Lesson
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Based and containing elements of University of Idaho CDIL Fellowship recipient Nick Koenig's work, the Chestnut Collective.."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: collectionbuilder,oral history as data, multidisciplinary research
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Nick Koenig, Julia Stone and Andrew Weymouth
 
 ##########
 # COLLECTION SETTINGS
