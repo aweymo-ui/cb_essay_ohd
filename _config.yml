@@ -45,6 +45,12 @@ metadata: demo-metadata
 #     extension: 'html' 
 #     filter: 'objectid'  
 
+# Essay collection
+collections:
+  essays:
+    sort_by: order
+    output: true
+
 ##########
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo

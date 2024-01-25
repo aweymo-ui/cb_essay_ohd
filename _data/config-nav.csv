@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
 Essays
-Essay One,/essays/essay_one.html,Essays
-Essay Two,/essays/essay_two.html,Essays
-Essay Three,/essays/essay_three.html,Essays
+Essay One,essay_one.html,Essays
+Essay Two,essay_two.html,Essays
+Essay Three,essay_three.html,Essays
 Oral Histories,/oral_histories.html
 About,/about.html,
