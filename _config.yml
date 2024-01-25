@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://aweymo-ui.github.io/cb_essay_ohd/
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /cb_essay_ohd
+baseurl: 
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -27,7 +27,7 @@ description: "Based and containing elements of University of Idaho CDIL Fellowsh
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: collectionbuilder,oral history as data, multidisciplinary research
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Nick Koenig, Julia Stone and Andrew Weymouth
+author: Nick Koenig, Julia Stone; Andrew Weymouth
 
 ##########
 # COLLECTION SETTINGS
