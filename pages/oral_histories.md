@@ -4,4 +4,6 @@ layout: visualization
 permalink: /oral_histories.html
 ---
 
-## Oral History Transcript Subjects
+## Oral Histories
+
+Filter transcripts by subject:
