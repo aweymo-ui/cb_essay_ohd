@@ -14,7 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Heading 4
 
-- Sem fringilla ut morbi tincidunt augue interdum. Aenean euismod elementum nisi quis eleifend quam adipiscing.
+{:.link .essay_three} 
+["Sem fringilla ut morbi tincidunt augue interdum. Aenean euismod elementum nisi quis eleifend quam adipiscing."]({{'/items/chestnut050.html#chestnut05031' | relative_url}})
 
 - Ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Et malesuada fames ac turpis egestas sed tempus urna et. 
 
